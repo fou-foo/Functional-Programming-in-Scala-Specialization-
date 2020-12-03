@@ -1,0 +1,9 @@
+[info] Packaging C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\Functional Programming Principles\W1\example\target\scala-2.13\progfun1-example_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	example
+[debug] 	  C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\Functional Programming Principles\W1\example\target\scala-2.13\classes\example
+[debug] 	example\Lists$.class
+[debug] 	  C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\Functional Programming Principles\W1\example\target\scala-2.13\classes\example\Lists$.class
+[debug] 	example\Lists.class
+[debug] 	  C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\Functional Programming Principles\W1\example\target\scala-2.13\classes\example\Lists.class
+[info] Done packaging.
