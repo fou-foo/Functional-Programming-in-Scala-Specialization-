@@ -1,61 +1,23 @@
-[0m[[0m[0mdebug[0m] [0m[0mInvalidating C:\Program Files\Java\jre1.8.0_271\lib\rt.jar: class java.lang.Object now provided by /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidating C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.0\scala-library-2.13.0.jar: class scala.Function1 now provided by /home/foo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	removed:Set(C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\src\main\scala\funsets\FunSets.scala, C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\src\main\scala\funsets\FunSetsInterface.scala, C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\src\main\scala\funsets\Main.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	added: Set(/home/foo/Desktop/GitHub/Functional-Programming-in-Scala-Specialization-/FuncProgrPrin/W1/funsets/src/main/scala/funsets/Main.scala, /home/foo/Desktop/GitHub/Functional-Programming-in-Scala-Specialization-/FuncProgrPrin/W1/funsets/src/main/scala/funsets/FunSetsInterface.scala, /home/foo/Desktop/GitHub/Functional-Programming-in-Scala-Specialization-/FuncProgrPrin/W1/funsets/src/main/scala/funsets/FunSets.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\target\scala-2.13\classes\funsets\FunSets.class, C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\target\scala-2.13\classes\funsets\Main.class, C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\target\scala-2.13\classes\funsets\Main$.class, C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\target\scala-2.13\classes\funsets\FunSetsInterface.class, C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\target\scala-2.13\classes\funsets\Main$delayedInit$body.class, C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\target\scala-2.13\classes\funsets\FunSets$.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/home/foo/Desktop/GitHub/Functional-Programming-in-Scala-Specialization-/FuncProgrPrin/W1/funsets/src/main/scala/funsets/Main.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/home/foo/Desktop/GitHub/Functional-Programming-in-Scala-Specialization-/FuncProgrPrin/W1/funsets/target/scala-2.13/classes/funsets/Main$delayedInit$body.class, /home/foo/Desktop/GitHub/Functional-Programming-in-Scala-Specialization-/FuncProgrPrin/W1/funsets/target/scala-2.13/classes/funsets/Main.class, /home/foo/Desktop/GitHub/Functional-Programming-in-Scala-Specialization-/FuncProgrPrin/W1/funsets/target/scala-2.13/classes/funsets/Main$.class)[0m
 [0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set(C:\Program Files\Java\jre1.8.0_271\lib\rt.jar, C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.0\scala-library-2.13.0.jar)[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(funsets.FunSets, funsets.FunSetsInterface, funsets.Main)[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(funsets.Main)[0m
 [0m[[0m[0mdebug[0m] [0m[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	product: Set(C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\src\main\scala\funsets\FunSetsInterface.scala, C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\src\main\scala\funsets\Main.scala, C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\src\main\scala\funsets\FunSets.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set(C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\src\main\scala\funsets\FunSets.scala, C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\src\main\scala\funsets\FunSetsInterface.scala, C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\src\main\scala\funsets\Main.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/home/foo/Desktop/GitHub/Functional-Programming-in-Scala-Specialization-/FuncProgrPrin/W1/funsets/src/main/scala/funsets/Main.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(funsets.FunSets, funsets.FunSetsInterface, funsets.Main)[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\src\main\scala\funsets\FunSetsInterface.scala, C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\src\main\scala\funsets\Main.scala, /home/foo/Desktop/GitHub/Functional-Programming-in-Scala-Specialization-/FuncProgrPrin/W1/funsets/src/main/scala/funsets/Main.scala, C:\Users\user\Desktop\GitHub\Functional-Programming-in-Scala-Specialization-\FuncProgrPrin\W1\funsets\src\main\scala\funsets\FunSets.scala, /home/foo/Desktop/GitHub/Functional-Programming-in-Scala-Specialization-/FuncProgrPrin/W1/funsets/src/main/scala/funsets/FunSets.scala, /home/foo/Desktop/GitHub/Functional-Programming-in-Scala-Specialization-/FuncProgrPrin/W1/funsets/src/main/scala/funsets/FunSetsInterface.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 3 sources: invalidated sources (6) exceeded 50.0% of all sources[0m
-[0m[[0m[0minfo[0m] [0m[0mCompiling 3 Scala sources to /home/foo/Desktop/GitHub/Functional-Programming-in-Scala-Specialization-/FuncProgrPrin/W1/funsets/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(funsets.Main)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/home/foo/Desktop/GitHub/Functional-Programming-in-Scala-Specialization-/FuncProgrPrin/W1/funsets/src/main/scala/funsets/Main.scala)[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to /home/foo/Desktop/GitHub/Functional-Programming-in-Scala-Specialization-/FuncProgrPrin/W1/funsets/target/scala-2.13/classes ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
-[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.13' for Scala 2.13.0. Compiling...[0m
-[0m[[0m[0mdebug[0m] [0m[0mCreating plain compiler interface for 2.13.0.[0m
-[0m[[0m[0mdebug[0m] [0m[0m  > Arguments: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	-nowarn[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_c3ceebba[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/foo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_77e9e793/jars/org.scala-sbt/compiler-interface/compiler-interface-1.2.5.jar:/tmp/sbt_77e9e793/jars/org.scala-sbt/util-interface/util-interface-1.2.2.jar:/tmp/sbt_77e9e793/srcs/org.scala-sbt/compiler-bridge_2.13/compiler-bridge_2.13-1.2.5-sources.jar:/home/foo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.0/scala-compiler-2.13.0.jar:/home/foo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.0/scala-reflect-2.13.0.jar:/home/foo/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/API.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/Analyzer.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/CallbackGlobal.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/ClassName.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/Command.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/Compat.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/CompilerInterface.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/ConsoleInterface.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/DelegatingReporter.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/Dependency.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/ExtractAPI.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/ExtractUsedNames.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/GlobalHelpers.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/InteractiveConsoleFactory.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/InteractiveConsoleHelper.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/InteractiveConsoleInterface.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/InteractiveConsoleResponse.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/JavaUtils.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/LocalToNonLocalClass.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/LocateClassFile.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/Log.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/Message.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_4f38e305/xsbt/ScaladocInterface.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m      [0m
-[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 4.994s.[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 4b7445dd for Scala compiler version 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 4fff838b for Scala compiler version 2.13.0[0m
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-language:implicitConversions[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
@@ -63,7 +25,7 @@
 [0m[[0m[0mdebug[0m] [0m[0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/foo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/home/foo/Desktop/GitHub/Functional-Programming-in-Scala-Specialization-/FuncProgrPrin/W1/funsets/target/scala-2.13/classes[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 8.897349165 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.142074577 s[0m
 [0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
 [0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
